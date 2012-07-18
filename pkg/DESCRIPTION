@@ -1,0 +1,10 @@
+Package: ibmpm
+Type: Package
+Title: Individual-based metapopulation model
+Version: 0.1
+Date: 2012-06-24
+Encoding: UTF-8
+Author: Kamil Bartoń
+Maintainer: Kamil Bartoń <kamil.barton@uni-wuerzburg.de>
+Description: Individual-based metapopulation simulation including genetics
+License: GPL-2

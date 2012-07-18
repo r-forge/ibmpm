@@ -1,0 +1,2 @@
+export(metapop, tr.exp.growth, logistic.growth, st.logistic.growth,
+	gst.logistic.growth, ext.logistic.growth, read.structure)
