@@ -33,6 +33,9 @@ echo '<?xml version="1.0" encoding="UTF-8"?>';
 <h1>ibmpm - R package for individual-based metapopulation simulation</h1>
 
 <!-- end of project description -->
+
+<p><a href="ibmpm-manual.pdf">Manual in PDF</a></p>
+
 <p>Install development version from R-forge: <br />
 <p><tt style="font-weight:bold; color: #005f8c;">&gt; install.packages("ibmpm", repos="http://R-Forge.R-project.org")</tt></p>
 
